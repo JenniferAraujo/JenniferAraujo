@@ -1,6 +1,6 @@
 ### Hey! I'm Jennifer Araujo 👋 
  
-- 👩🏽‍💻 An interdisciplinary chemistry that allowed itself to learn something new and fell in love with programming. Today a rising back-end developer and cadet at 42 Porto.
+- 👩🏽‍💻 An interdisciplinary chemistry that allowed itself to learn something new and fell in love with programming. Today a rising back-end developer.
 - 🌱 I'm currently learning backend development.
 - 🧠 Always learning something new, curiosity is my compass!
 
@@ -23,8 +23,5 @@
 
 ##
 
-<div> 
-  <a href = "mailto:jennyarauj@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    <a href="https://www.linkedin.com/in/jenniferaraujooliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennyarauj@icloud.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferaraujooliveira)
