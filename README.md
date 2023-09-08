@@ -1,7 +1,7 @@
 ### Hey! I'm Jennifer Araujo 👋 
  
-- 👩🏽‍💻 An interdisciplinary chemistry that allowed herself to learn something new and fell in love with programming. Today a rising back-end developer.
-- 🌱 I'm currently learning backend development and C with 42Porto.
+- 👩🏽‍💻 An interdisciplinary chemistry that allowed herself to learn something new and fell in love with programming.
+- 🌱  I’m currently studying Common Core at 42 Porto.
 - 🧠 Always learning something new, curiosity is my compass!
 
 ##
