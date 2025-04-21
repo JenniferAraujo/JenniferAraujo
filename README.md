@@ -2,7 +2,7 @@
 
 👩🏽‍💻 A chemist turned software developer — I transitioned from science to code and never looked back.
 
-🛠️ Recently completed the Common Core at 42 Porto, where I worked on low-level programming, algorithms, and Unix-based projects.
+🛠️ Recently completed the Common Core at 42 Porto, where I worked on high-level programming, algorithms, and Unix-based projects.
 
 🌱 Passionate about learning, solving problems, and building efficient, creative solutions.
 
