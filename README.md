@@ -6,7 +6,7 @@
 
 🌱 Passionate about learning, solving problems, and building efficient, creative solutions.
 
-📚 Tech Stack: C, C++, Python, JavaScript, SQL, ABAP, Git, Bash
+📚 Tech Stack: C, C++, HTML, Python, JavaScript, SQL, ABAP, Git, Bash, SQL Server, Docker, Postman
 
 🧠 Curiosity is my compass!
 ##
