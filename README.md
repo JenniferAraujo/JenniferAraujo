@@ -1,9 +1,14 @@
 ### Hey! I'm Jennifer Araujo 👋 
- 
-- 👩🏽‍💻 An interdisciplinary chemistry that allowed herself to learn something new and fell in love with programming.
-- 🌱  I’m currently studying Common Core at 42 Porto.
-- 🧠 Always learning something new, curiosity is my compass!
 
+👩🏽‍💻 A chemist turned software developer — I transitioned from science to code and never looked back.
+
+🛠️ Recently completed the Common Core at 42 Porto, where I worked on low-level programming, algorithms, and Unix-based projects.
+
+🌱 Passionate about learning, solving problems, and building efficient, creative solutions.
+
+📚 Tech Stack: C, C++, Python, JavaScript, SQL, ABAP, Git, Bash
+
+🧠 Curiosity is my compass!
 ##
  
  <div align="center">
